@@ -4,6 +4,13 @@ This repository hosts a list of research papers and topics that we discuss on ev
 development of a particular idea, and the complete thought process of the author.
 
 A collection of concise write-ups on each paper, with something noteworthy is also maintained here.
+
+## 2022
+|       Date       | Topic | Presenters | Notes |
+|:----------------:|:----------------------------------------:|:----------:|:------:|
+|14th May, 2022| <a href="https://arxiv.org/pdf/2109.04617.pdf"> Efficiently Identifying Task Groupings for Multi-Task Learning </a>| Sarthak |[Summary](tobeupdated)
+
+
 ## 2021 
 |       Date       | Topic | Presenters | Notes |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
